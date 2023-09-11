@@ -15,7 +15,7 @@ namespace WebApplication1.Controllers
 
         public IActionResult Index()
         {
-            int f =;
+            int f =45;
             return View();
         }
 
